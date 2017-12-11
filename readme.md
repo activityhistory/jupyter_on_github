@@ -1,10 +1,10 @@
 # Jupyter Notebooks on Github
 In July 2017 we searched for, downloaded, and analyzed the approximately 1.3
 million public Jupyter Notebooks on Github at the time. This repository includes
-the notebooks used for that query and analysis. We are working on making the
+the notebooks used to query and analyze that dataset. We are working on making the
 raw notebook data (about 600 Gb) available for public use.
 
-We looked primarily at how notebooks employ narrative (operationalized as
+In our analysis, we looked primarily at how notebooks employ narrative (operationalized as
 markdown text). Our main finding was that many notebooks (~27%) include no
 markdown text and that text occurs more often at the start of notebooks.
 
